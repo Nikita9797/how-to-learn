@@ -1,6 +1,6 @@
 .cards__item {
     margin-right: 100px;
-    flex: 0 0 200px;
+    flex: 0 0 240px;
 }
 
 .cards__item:nth-child(3n) {
