@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     position: absolute;
+    z-index: 2;
     left: 64px;
     bottom: 30px;
     max-width: 388px;
